@@ -1,0 +1,401 @@
+﻿Question_ID,Year,Q No,Subject,Topic,Difficulty,Question_Type,Static_Current
+1,2023,1,Geography,Rivers & Lakes,Medium,Conceptual,Static
+2,2023,2,Geography,Ports,Medium,Factual,Static
+3,2023,3,Environment,Forest Ecology,Easy,Factual,Static
+4,2023,4,Geography,Agriculture,Medium,Analytical,Static
+5,2023,5,Geography,Coastal Landforms,Hard,Conceptual,Static
+6,2023,6,Geography,Mineral Resources,Easy,Factual,Static
+7,2023,7,Geography,World Mineral Distribution,Easy,Factual,Current
+8,2023,8,Geography,Congo Basin,Easy,Factual,Static
+9,2023,9,Geography,Indian Physiography,Hard,Conceptual,Static
+10,2023,10,Geography,Connectivity Corridors,Medium,Analytical,Current
+11,2023,11,Science & Technology,Nuclear Energy,Medium,Conceptual,Static
+12,2023,12,Environment,Marsupials,Easy,Factual,Static
+13,2023,13,Environment,IUCN & Invasive Species,Medium,Factual,Current
+14,2023,14,Environment,Wildlife Species,Medium,Factual,Static
+15,2023,15,Science & Technology,Animal Behaviour,Easy,Factual,Static
+16,2023,16,Science & Technology,Fungi & Mushrooms,Medium,Conceptual,Static
+17,2023,17,Environment,Indian Squirrels,Medium,Conceptual,Static
+18,2023,18,Science & Technology,Extremophiles,Medium,Conceptual,Static
+19,2023,19,Science & Technology,Animal Intelligence,Easy,Factual,Static
+20,2023,20,Environment,Hydrofluorocarbons,Medium,Conceptual,Current
+21,2023,21,Economy,InVITs,Hard,Analytical,Current
+22,2023,22,Economy,Monetary Policy & Inflation,Medium,Conceptual,Current
+23,2023,23,Environment,Carbon Markets,Medium,Conceptual,Current
+24,2023,24,Economy,RBI Monetary Operations,Hard,Conceptual,Static
+25,2023,25,Economy,Capital Market,Medium,Conceptual,Static
+26,2023,26,Economy,Agriculture Models,Hard,Analytical,Current
+27,2023,27,Economy,Oilseeds & MSP,Medium,Factual,Current
+28,2023,28,Economy,Intangible Assets,Medium,Conceptual,Static
+29,2023,29,Economy,Finance Commission,Hard,Factual,Current
+30,2023,30,Economy,Infrastructure Investment,Medium,Factual,Current
+31,2023,31,Polity,Due Process of Law,Medium,Conceptual,Static
+32,2023,32,Polity,Prison Administration,Medium,Conceptual,Static
+33,2023,33,Polity,Constitution Theory,Easy,Conceptual,Static
+34,2023,34,Polity,Constitutional Amendments,Medium,Analytical,Static
+35,2023,35,Polity,Constitutional Bodies,Medium,Factual,Static
+36,2023,36,Polity,President of India,Hard,Conceptual,Static
+37,2023,37,Polity,Finance Bill & Money Bill,Hard,Conceptual,Static
+38,2023,38,Environment,Community Reserve,Medium,Conceptual,Current
+39,2023,39,Polity,Scheduled Areas,Hard,Conceptual,Static
+40,2023,40,Polity,Reservation & Article 335,Hard,Analytical,Static
+41,2023,41,History,Buddhism,Medium,Factual,Static
+42,2023,42,History,Buddhist Architecture,Medium,Conceptual,Static
+43,2023,43,History,Sangam Age Ports,Medium,Factual,Static
+44,2023,44,History,Sangam Age (Vattakirutal),Medium,Factual,Static
+45,2023,45,History,Medieval Indian Dynasties,Hard,Analytical,Static
+46,2023,46,History,Ancient Indian Literature & Authors,Hard,Match The Following,Static
+47,2023,47,History,Jain Philosophy,Medium,Conceptual,Static
+48,2023,48,History,Vijayanagara Empire,Medium,Factual,Static
+49,2023,49,History,Medieval Gujarat & Portuguese,Medium,Factual,Static
+50,2023,50,History,Charter Act 1833 & Governor General,Easy,Factual,Static
+51,2023,51,History,Revolt of 1857 / Colonial India,Medium,Conceptual,Static
+52,2023,52,History,Social & Religious Reform Movements,Medium,Conceptual,Static
+53,2023,53,History,Freedom Struggle Personalities,Medium,Factual,Static
+54,2023,54,History,Gandhian Movements,Medium,Analytical,Static
+55,2023,55,History,Constitutional Development under British Rule,Hard,Analytical,Static
+56,2023,56,History,Indian National Congress Sessions,Medium,Factual,Static
+57,2023,57,History,Revolutionary Movements,Medium,Factual,Static
+58,2023,58,History,Modern Indian Leaders & Organizations,Medium,Match The Following,Static
+59,2023,59,History,Freedom Struggle Events,Hard,Analytical,Static
+60,2023,60,Art & Culture,Indian Architecture,Medium,Conceptual,Static
+61,2023,61,Geography,Climatic Regions & Monsoon,Medium,Conceptual,Static
+62,2023,62,Geography,Oceanography,Hard,Analytical,Static
+63,2023,63,Environment,Biodiversity Conservation,Medium,Conceptual,Current
+64,2023,64,Environment,Ramsar Sites & Wetlands,Medium,Factual,Current
+65,2023,65,Geography,Earthquakes & Plate Tectonics,Hard,Conceptual,Static
+66,2023,66,Geography,Indian Agriculture,Medium,Analytical,Current
+67,2023,67,Economy,Food Processing Industry,Medium,Analytical,Current
+68,2023,68,Science & Technology,Biotechnology,Hard,Conceptual,Current
+69,2023,69,Science & Technology,Space Technology,Medium,Factual,Current
+70,2023,70,Science & Technology,Artificial Intelligence & Computing,Medium,Conceptual,Current
+71,2023,71,Science & Technology,Semiconductor Technology,Hard,Conceptual,Current
+72,2023,72,Science & Technology,Quantum Technology,Hard,Conceptual,Current
+73,2023,73,Science & Technology,Communication Technology,Medium,Analytical,Current
+74,2023,74,Science & Technology,Green Hydrogen,Medium,Conceptual,Current
+75,2023,75,Science & Technology,Space Technology & Satellites,Medium,Factual,Current
+76,2023,76,Science & Technology,Cyber Security,Medium,Conceptual,Current
+77,2023,77,Environment,Climate Change,Medium,Conceptual,Current
+78,2023,78,Environment,Carbon Sequestration,Medium,Analytical,Current
+79,2023,79,Environment,Protected Areas,Medium,Factual,Current
+80,2023,80,Environment,Species Conservation,Medium,Factual,Current
+81,2023,81,Geography,World Geography,Hard,Analytical,Static
+82,2023,82,Geography,Climatology,Medium,Conceptual,Static
+83,2023,83,Geography,Economic Geography,Medium,Analytical,Static
+84,2023,84,Geography,Resources Distribution,Medium,Factual,Static
+85,2023,85,Geography,Indian Geography,Medium,Analytical,Static
+86,2023,86,Polity,Governance & Public Policy,Medium,Conceptual,Current
+87,2023,87,Polity,Constitutional Provisions,Hard,Analytical,Static
+88,2023,88,Polity,Local Governance,Medium,Conceptual,Static
+89,2023,89,Polity,Rights & Duties,Medium,Conceptual,Static
+90,2023,90,Polity,Judiciary,Hard,Analytical,Static
+91,2023,91,Economy,Banking & Finance,Medium,Conceptual,Current
+92,2023,92,Economy,External Sector,Hard,Analytical,Current
+93,2023,93,Economy,Inflation & Monetary Policy,Medium,Conceptual,Current
+94,2023,94,Economy,Fiscal Policy,Medium,Analytical,Current
+95,2023,95,Economy,Government Schemes,Easy,Factual,Current
+96,2023,96,Economy,Agriculture Economics,Medium,Analytical,Current
+97,2023,97,Environment,International Environmental Agreements,Medium,Factual,Current
+98,2023,98,Environment,Biodiversity,Medium,Conceptual,Current
+99,2023,99,Environment,Sustainable Development,Medium,Analytical,Current
+100,2023,100,Environment,Climate Governance,Medium,Conceptual,Current
+101,2024,1,Environment,Climate Change,Medium,Statement Based,Current
+102,2024,2,Environment,Ocean Currents,Medium,Statement Based,Static
+103,2024,3,Geography,Volcanism,Easy,Factual,Static
+104,2024,4,Geography,Climatology,Medium,Analytical,Static
+105,2024,5,Geography,Fisheries & Oceans,Medium,Factual,Static
+106,2024,6,Geography,River Systems,Medium,Match The Following,Static
+107,2024,7,Geography,Weathering,Medium,Statement Based,Static
+108,2024,8,Geography,Political Geography,Easy,Factual,Static
+109,2024,9,Geography,Waterfalls,Medium,Match The Following,Static
+110,2024,10,Geography,Mountain Systems,Medium,Match The Following,Static
+111,2024,11,Environment,Greenfield Airports,Medium,Factual,Current
+112,2024,12,Geography,Water Vapour,Medium,Conceptual,Static
+113,2024,13,Geography,Climate Types,Hard,Conceptual,Static
+114,2024,14,Geography,Coriolis Force,Easy,Conceptual,Static
+115,2024,15,Geography,Insolation,Medium,Analytical,Static
+116,2024,16,Environment,Amazon Basin,Medium,Conceptual,Current
+117,2024,17,Environment,PFAS Pollution,Hard,Statement Based,Current
+118,2024,18,Environment,Parasitic Species,Medium,Factual,Static
+119,2024,19,Environment,Plant Taxonomy,Easy,Factual,Static
+120,2024,20,Environment,Wildlife Protection Act,Medium,Statement Based,Static
+121,2024,21,Environment,Species Classification,Easy,Factual,Static
+122,2024,22,Environment,Plastic Pollution,Medium,Statement Based,Current
+123,2024,23,Environment,Wildlife Distribution,Medium,Match The Following,Static
+124,2024,24,Environment,Sanitation & WTO,Hard,Analytical,Current
+125,2024,25,Environment,Cheetah Project,Medium,Statement Based,Current
+126,2024,26,Economy,100 Million Farmers Initiative,Hard,Conceptual,Current
+127,2024,27,Economy,Distributed Energy Resources,Medium,Factual,Current
+128,2024,28,Environment,Ecology & Pollination,Hard,Conceptual,Static
+129,2024,29,Environment,Poisonous Species,Easy,Factual,Static
+130,2024,30,Environment,Tree Species,Easy,Factual,Static
+131,2024,31,Science & Technology,RTGs,Hard,Statement Based,Current
+132,2024,32,Science & Technology,Stellar Evolution,Medium,Statement Based,Static
+133,2024,33,Science & Technology,Nitric Oxide,Easy,Factual,Static
+134,2024,34,Science & Technology,Radar Applications,Medium,Analytical,Current
+135,2024,35,Science & Technology,Fighter Aircraft,Medium,Factual,Current
+136,2024,36,Science & Technology,Hydrogen Economy,Medium,Analytical,Current
+137,2024,37,Science & Technology,Fuel Cell Vehicles,Medium,Factual,Current
+138,2024,38,Science & Technology,Biotechnology,Easy,Factual,Current
+139,2024,39,Economy,Financial Markets,Medium,Conceptual,Static
+140,2024,40,Economy,Collateral Borrowing & Lending,Medium,Factual,Current
+141,2024,41,Economy,Demography,Medium,Conceptual,Static
+142,2024,42,Economy,Financial Institutions,Hard,Statement Based,Current
+143,2024,43,Economy,Government Securities,Medium,Conceptual,Current
+144,2024,44,Economy,Financial Instruments,Medium,Factual,Current
+145,2024,45,Economy,Economic Sectors,Easy,Match The Following,Static
+146,2024,46,Economy,Sustainable Aviation Fuel,Medium,Analytical,Current
+147,2024,47,Economy,Physical Capital,Medium,Match The Following,Static
+148,2024,48,Economy,Metaverse,Medium,Conceptual,Current
+149,2024,49,Economy,Banking Regulations,Hard,Statement Based,Current
+150,2024,50,Economy,CSR,Medium,Statement Based,Static
+151,2024,51,Economy,US Treasury Bonds,Hard,Statement Based,Current
+152,2024,52,Economy,Syndicated Loans,Medium,Statement Based,Current
+153,2024,53,Economy,Digital Rupee,Hard,Statement Based,Current
+154,2024,54,History,Buddhism,Easy,Factual,Static
+155,2024,55,History,Archaeology,Medium,Match The Following,Static
+156,2024,56,History,Medieval India,Medium,Factual,Static
+157,2024,57,History,Land Revenue Systems,Hard,Statement Based,Static
+158,2024,58,History,Upanishads,Medium,Statement Based,Static
+159,2024,59,History,International Grain Council,Medium,Statement Based,Current
+160,2024,60,Art & Culture,UNESCO Intangible Heritage,Medium,Factual,Current
+161,2024,61,History,Constituent Assembly,Medium,Factual,Static
+162,2024,62,History,Government of India Act 1935,Hard,Statement Based,Static
+163,2024,63,Art & Culture,Sanskrit Literature,Medium,Factual,Static
+164,2024,64,History,Chinese Travellers,Medium,Factual,Static
+165,2024,65,Art & Culture,UNESCO World Heritage,Medium,Factual,Current
+166,2024,66,Polity,Constitutional Amendments,Easy,Factual,Static
+167,2024,67,Demography,Population Trends,Medium,Analytical,Current
+168,2024,68,Polity,Parliament,Hard,Statement Based,Static
+169,2024,69,Polity,Defence Services Ranks,Medium,Match The Following,Static
+170,2024,70,Polity,North Eastern Council,Medium,Factual,Static
+171,2024,71,Polity,Delimitation Commission,Easy,Factual,Static
+172,2024,72,Polity,Constitutional Amendments,Medium,Factual,Static
+173,2024,73,Polity,Political Parties,Medium,Match The Following,Static
+174,2024,74,Polity,Municipalities,Medium,Statement Based,Static
+175,2024,75,Polity,Centre-State Relations,Easy,Factual,Static
+176,2024,76,Polity,Right to Privacy,Easy,Factual,Static
+177,2024,77,Polity,Chief of Defence Staff,Medium,Statement Based,Current
+178,2024,78,Polity,Military Operations,Easy,Factual,Current
+179,2024,79,Geography,International Borders,Easy,Factual,Static
+180,2024,80,Polity,Ethics Committee,Medium,Statement Based,Static
+181,2024,81,Polity,Nari Shakti Vandan Adhiniyam,Medium,Statement Based,Current
+182,2024,82,International Relations,Military Exercises,Medium,Factual,Current
+183,2024,83,Polity,Writs,Medium,Conceptual,Static
+184,2024,84,Polity,Scheduled Tribes,Hard,Statement Based,Static
+185,2024,85,Economy,Union Budget,Medium,Statement Based,Current
+186,2024,86,Current Affairs,Books & Authors,Easy,Factual,Current
+187,2024,87,International Relations,World Affairs,Medium,Match The Following,Current
+188,2024,88,International Relations,Energy Corridors,Hard,Statement Based,Current
+189,2024,89,Geography,Red Sea,Medium,Statement Based,Current
+190,2024,90,Environment,Environmental Protection Act,Medium,Factual,Static
+191,2024,91,International Relations,Sahel Region,Medium,Statement Based,Current
+192,2024,92,International Relations,India-US Trade,Hard,Statement Based,Current
+193,2024,93,Polity,Speaker of Lok Sabha,Hard,Statement Based,Static
+194,2024,94,Polity,Parliament Procedures,Hard,Statement Based,Static
+195,2024,95,Polity,Parliamentary Powers,Hard,Statement Based,Static
+196,2024,96,International Relations,European Union,Medium,Statement Based,Current
+197,2024,97,Economy,Recovery & Resilience Facility,Hard,Statement Based,Current
+198,2024,98,Economy,Digital India Land Records Modernization Programme,Medium,Statement Based,Current
+199,2024,99,Economy,PM Surakshit Matritva Abhiyan,Medium,Statement Based,Current
+200,2024,100,Economy,PM-SYM Scheme,Medium,Statement Based,Current
+201,2025,1,Economy,Investments & Financial Markets,Medium,Factual,Static
+202,2025,2,Economy,RBI & Currency,Medium,Match The Following,Static
+203,2025,3,Economy,Enforcement Directorate & Institutions,Hard,Match The Following,Current
+204,2025,4,Economy,BRSR Framework,Medium,Statement Based,Current
+205,2025,5,Economy,Agricultural Land Reforms,Hard,Statement Based,Current
+206,2025,6,Economy,Minerals & Mining,Hard,Statement Based,Current
+207,2025,7,Economy,Bonds & Investment,Medium,Statement Based,Static
+208,2025,8,Economy,Equity Markets,Medium,Analytical,Current
+209,2025,9,Environment,Circular Economy,Medium,Statement Based,Current
+210,2025,10,Economy,Government Finance,Medium,Statement Based,Static
+211,2025,11,History,Raja Ram Mohan Roy,Easy,Statement Based,Static
+212,2025,12,History,Non-Cooperation Movement,Medium,Factual,Static
+213,2025,13,History,Medieval Irrigation Systems,Medium,Factual,Static
+214,2025,14,History,Pallava Dynasty,Medium,Factual,Static
+215,2025,15,History,Chinese Travellers,Easy,Factual,Static
+216,2025,16,History,Rashtrakutas & Deccan Kingdoms,Medium,Factual,Static
+217,2025,17,History,Mahajanapadas,Hard,Match The Following,Static
+218,2025,18,History,Gandhara Mahavidyalaya,Medium,Factual,Static
+219,2025,19,History,Ashokan Administration,Medium,Conceptual,Static
+220,2025,20,History,Swaraj Resolution,Hard,Statement Based,Static
+221,2025,21,Geography,European Countries,Easy,Factual,Static
+222,2025,22,Geography,South American Countries,Easy,Factual,Static
+223,2025,23,Geography,Lakes & Lagoons,Medium,Factual,Static
+224,2025,24,Geography,Turmeric Production,Medium,Statement Based,Current
+225,2025,25,Geography,Continental Drift,Hard,Analytical,Static
+226,2025,26,Geography,Atmosphere & Climate,Medium,Statement Based,Static
+227,2025,27,Geography,Isotherms & Ocean-Air Interaction,Hard,Statement Based,Static
+228,2025,28,Geography,Groundwater & Rocks,Medium,Statement Based,Static
+229,2025,29,Geography,Atmosphere & Greenhouse Effect,Hard,Conceptual,Static
+230,2025,30,Geography,Bhimtal Lake,Medium,Statement Based,Static
+231,2025,31,Environment,Cement Industry & Emissions,Hard,Statement Based,Current
+232,2025,32,Environment,COP28 & Climate Policy,Medium,Statement Based,Current
+233,2025,33,Environment,Solar Flares & Earth System,Hard,Statement Based,Current
+234,2025,34,Environment,Paris Agreement,Hard,Statement Based,Current
+235,2025,35,Economy,Multilateral Development Banks,Easy,Factual,Current
+236,2025,36,Environment,Direct Air Capture,Medium,Statement Based,Current
+237,2025,37,Environment,Peacock Tarantula,Medium,Statement Based,Current
+238,2025,38,Environment,CO₂ Emissions,Medium,Statement Based,Current
+239,2025,39,Environment,Economic Plants,Hard,Match The Following,Static
+240,2025,40,Environment,Oxygen Cycle,Medium,Statement Based,Static
+241,2025,41,Science & Technology,Alternative Fuel Vehicles,Easy,Factual,Current
+242,2025,42,Science & Technology,UAVs (Drones),Medium,Statement Based,Current
+243,2025,43,Science & Technology,EV Batteries,Easy,Factual,Current
+244,2025,44,Science & Technology,Plastics & Materials,Easy,Factual,Static
+245,2025,45,Science & Technology,Coal Gasification,Medium,Conceptual,Current
+246,2025,46,Science & Technology,Missile & Rocket Fuels,Hard,Conceptual,Current
+247,2025,47,Science & Technology,AI & Machine Learning,Medium,Statement Based,Current
+248,2025,48,Science & Technology,Monoclonal Antibodies,Medium,Statement Based,Current
+249,2025,49,Science & Technology,Virology,Medium,Statement Based,Current
+250,2025,50,Environment,Activated Carbon,Medium,Statement Based,Current
+251,2025,51,Polity,Ordinance Making Power,Medium,Statement Based,Static
+252,2025,52,Polity,State Reorganisation,Hard,Match The Following,Static
+253,2025,53,Polity,Constitutional Bodies,Easy,Factual,Static
+254,2025,54,Polity,Governor's Powers,Hard,Statement Based,Static
+255,2025,55,Polity,"DPSP, FR & Fundamental Duties",Hard,Match The Following,Static
+256,2025,56,Polity,Fifth Schedule Areas,Medium,Statement Based,Static
+257,2025,57,Polity,Ministries & Departments,Medium,Match The Following,Current
+258,2025,58,Polity,Constitutional Amendment,Hard,Analytical,Static
+259,2025,59,Polity,Governor,Hard,Statement Based,Static
+260,2025,60,Economy,Petroleum & Natural Gas Sector,Medium,Factual,Current
+261,2025,61,Economy,Fiscal Deficit,Medium,Analytical,Static
+262,2025,62,International Relations,INSTC Corridor,Medium,Factual,Current
+263,2025,63,Economy,Ethanol Production,Medium,Statement Based,Current
+264,2025,64,Environment,Wet-Bulb Temperature,Hard,Statement Based,Current
+265,2025,65,Economy,Revenue Deficit,Medium,Analytical,Static
+266,2025,66,Economy,Finance Commission,Hard,Statement Based,Current
+267,2025,67,Economy,IBRD,Medium,Statement Based,Current
+268,2025,68,Economy,RTGS & NEFT,Easy,Factual,Current
+269,2025,69,Economy,UPI Internationalization,Medium,Factual,Current
+270,2025,70,Economy,PM Surya Ghar Yojana,Medium,Statement Based,Current
+271,2025,71,History,Gandhi & Freedom Movement,Medium,Factual,Static
+272,2025,72,Art & Culture,Dancing Girl (Mohenjo-daro),Easy,Factual,Static
+273,2025,73,History,Chauri Chaura Incident,Medium,Factual,Static
+274,2025,74,History,Harijan Movement,Medium,Conceptual,Static
+275,2025,75,Geography,Columbian Exchange Crops,Medium,Factual,Static
+276,2025,76,Geography,Time Zones,Medium,Factual,Static
+277,2025,77,Geography,International Date Line,Hard,Statement Based,Static
+278,2025,78,History,Self-Respect Movement,Easy,Factual,Static
+279,2025,79,Geography,Mineral Resources,Medium,Match The Following,Static
+280,2025,80,Geography,European Regions,Medium,Match The Following,Static
+281,2025,81,Science & Technology,Rare Earth Elements,Medium,Statement Based,Current
+282,2025,82,Science & Technology,Kavach System,Medium,Statement Based,Current
+283,2025,83,Science & Technology,Indian Space Missions,Easy,Factual,Current
+284,2025,84,Science & Technology,Defence Aircraft,Medium,Match The Following,Current
+285,2025,85,Science & Technology,Cloud Seeding,Medium,Factual,Current
+286,2025,86,Polity,Pardoning Power,Medium,Statement Based,Static
+287,2025,87,Polity,House Presiding Officers,Hard,Statement Based,Static
+288,2025,88,Polity,Tenth Schedule,Hard,Statement Based,Static
+289,2025,89,Polity,Minor Minerals,Medium,Statement Based,Current
+290,2025,90,Environment,Nature Restoration Law,Easy,Factual,Current
+291,2025,91,Polity,Panchayati Raj,Hard,Statement Based,Static
+292,2025,92,International Relations,BIMSTEC,Medium,Statement Based,Current
+293,2025,93,Current Affairs,Gandhi Peace Prize,Easy,Factual,Current
+294,2025,94,Science & Technology,GAGAN Navigation System,Medium,Statement Based,Current
+295,2025,95,International Relations,Quad & Summits,Medium,Statement Based,Current
+296,2025,96,Current Affairs,International Years,Easy,Match The Following,Current
+297,2025,97,International Relations,BRICS,Medium,Statement Based,Current
+298,2025,98,Polity,Lokpal,Hard,Statement Based,Static
+299,2025,99,Current Affairs,Sports,Easy,Statement Based,Current
+300,2025,100,Current Affairs,Chess,Easy,Statement Based,Current
+301,2026,1,Art & Culture,Carnatic Music,Easy,Factual,Static
+302,2026,2,Economy,Exchange Rate & Bretton Woods,Hard,Conceptual,Static
+303,2026,3,Economy,Ancient Economic Institutions,Hard,Statement Based,Static
+304,2026,4,Art & Culture,Temple Architecture,Medium,Match The Following,Static
+305,2026,5,Philosophy,Indian Philosophy,Medium,Factual,Static
+306,2026,6,Art & Culture,Bagh Caves Painting,Easy,Factual,Static
+307,2026,7,History,Ancient Indian Numeral System,Very Hard,Statement Based,Static
+308,2026,8,History,Harappan Civilization,Very Hard,Statement Based,Static
+309,2026,9,History,Elara & Bodhi Tree,Hard,Statement Based,Static
+310,2026,10,History,Rigvedic Civilization,Very Hard,Statement Based,Static
+311,2026,11,History,Vedic Civilization,Very Hard,Analytical,Static
+312,2026,12,Art & Culture,Buddhist Iconography,Medium,Factual,Static
+313,2026,13,History,Ancient River Names,Hard,Match The Following,Static
+314,2026,14,Art & Culture,Amaravati Stupa,Very Hard,Statement Based,Static
+315,2026,15,History,Sangam Age,Hard,Match The Following,Static
+316,2026,16,History,Forward Bloc,Medium,Statement Based,Static
+317,2026,17,History,Awadh Annexation,Very Hard,Statement Based,Static
+318,2026,18,History,Montagu-Chelmsford Reforms,Hard,Statement Based,Static
+319,2026,19,Art & Culture,Hindustani Classical Music,Easy,Factual,Static
+320,2026,20,History,Ancient Agriculture,Medium,Factual,Static
+321,2026,21,Environment,LT-LEDS & Climate Policy,Very Hard,Statement Based,Current
+322,2026,22,Environment,Western Hoolock Gibbon,Medium,Statement Based,Current
+323,2026,23,Environment,Mangrove Ecosystems,Hard,Analytical,Current
+324,2026,24,Geography,Maritime Infrastructure,Very Hard,Statement Based,Current
+325,2026,25,Geography,River Systems,Hard,Analytical,Static
+326,2026,26,Geography,Indian Borders,Hard,Statement Based,Static
+327,2026,27,Environment,Migratory Birds,Medium,Statement Based,Current
+328,2026,28,Geography,Rainfed Area Development,Medium,Statement Based,Current
+329,2026,29,Environment,Eco-Label Certification,Hard,Statement Based,Current
+330,2026,30,Geography,Strait of Hormuz,Easy,Factual,Static
+331,2026,31,Environment,Volcanoes,Easy,Factual,Current
+332,2026,32,Environment,National Parks & Tiger Reserves,Medium,Statement Based,Current
+333,2026,33,Geography,Andaman & Nicobar Climate,Medium,Statement Based,Static
+334,2026,34,Geography,Indian Physiography,Very Hard,Statement Based,Static
+335,2026,35,Economy,Sagarmala Programme,Medium,Statement Based,Current
+336,2026,36,Environment,Foxtail Orchid,Medium,Statement Based,Current
+337,2026,37,History,Ahom Kingdom,Hard,Statement Based,Static
+338,2026,38,Environment,Blue Economy,Very Hard,Conceptual,Current
+339,2026,39,Geography,Lake Turkana,Hard,Statement Based,Static
+340,2026,40,Environment,REDD+,Medium,Factual,Current
+341,2026,41,Science & Technology,Genetic Medicine,Very Hard,Statement Based,Current
+342,2026,42,Science & Technology,Large Language Models,Medium,Statement Based,Current
+343,2026,43,Science & Technology,Stealth Technology,Very Hard,Statement Based,Current
+344,2026,44,Science & Technology,Black Box Technology,Medium,Statement Based,Current
+345,2026,45,Science & Technology,Green Hydrogen,Medium,Statement Based,Current
+346,2026,46,Science & Technology,Private Space Sector,Very Hard,Statement Based,Current
+347,2026,47,Science & Technology,Drone Technology,Medium,Statement Based,Current
+348,2026,48,Science & Technology,Genome India Project,Medium,Statement Based,Current
+349,2026,49,Science & Technology,National Quantum Mission,Very Hard,Statement Based,Current
+350,2026,50,Science & Technology,Deep Ocean Mission,Medium,Statement Based,Current
+351,2026,51,Ethics,Public Administration Ethics,Medium,Case Based,Current
+352,2026,52,Ethics,Conflict Resolution,Hard,Case Based,Current
+353,2026,53,Ethics,Transparency & Accountability,Hard,Case Based,Current
+354,2026,54,Polity,Rule of Law,Medium,Conceptual,Static
+355,2026,55,Polity,Constitution of India,Medium,Statement Based,Static
+356,2026,56,Polity,Rights of Persons with Disabilities Act,Medium,Statement Based,Current
+357,2026,57,Polity,Sixth Schedule,Very Hard,Statement Based,Static
+358,2026,58,Polity,Parliamentary Procedures,Very Hard,Statement Based,Static
+359,2026,59,Polity,Welfare Committee of SCs,Very Hard,Statement Based,Static
+360,2026,60,Science & Technology,Mission Dhanush,Medium,Statement Based,Current
+361,2026,61,Infrastructure,Cross-Border Connectivity,Medium,Statement Based,Current
+362,2026,62,Polity,BNSS & Zero FIR,Very Hard,Statement Based,Current
+363,2026,63,Polity,Investigative Agencies,Very Hard,Match The Following,Current
+364,2026,64,International Relations,ILO Conventions,Hard,Match The Following,Current
+365,2026,65,Current Affairs,AI Impact Summit,Medium,Statement Based,Current
+366,2026,66,International Relations,ASEAN Connectivity,Medium,Match The Following,Current
+367,2026,67,International Relations,India Projects Abroad,Medium,Match The Following,Current
+368,2026,68,Science & Technology,Defence Equipment,Medium,Factual,Current
+369,2026,69,International Relations,Labour Migration Platforms,Hard,Statement Based,Current
+370,2026,70,International Relations,UN Agencies,Medium,Match The Following,Current
+371,2026,71,International Relations,BIMSTEC Missions,Medium,Match The Following,Current
+372,2026,72,International Relations,BIMSTEC Institutions,Medium,Match The Following,Current
+373,2026,73,Defence,Army Commands,Medium,Match The Following,Current
+374,2026,74,Polity,PM-AJAY,Medium,Statement Based,Current
+375,2026,75,International Relations,European Union,Easy,Factual,Current
+376,2026,76,International Relations,INTERPOL Notices,Medium,Match The Following,Current
+377,2026,77,Environment,INUNARTAR Platform,Medium,Statement Based,Current
+378,2026,78,International Relations,India-Germany Relations,Medium,Statement Based,Current
+379,2026,79,Science & Technology,DHRUVA Processor,Medium,Statement Based,Current
+380,2026,80,Science & Technology,BIS Standard,Medium,Statement Based,Current
+381,2026,81,Current Affairs,Nobel Prize,Easy,Factual,Current
+382,2026,82,Sports,Grand Slam Tennis,Medium,Statement Based,Current
+383,2026,83,Science & Technology,Semiconductor Industry,Medium,Match The Following,Current
+384,2026,84,Science & Technology,Bharat Forecast System,Medium,Statement Based,Current
+385,2026,85,Current Affairs,BAFTA Awards,Easy,Statement Based,Current
+386,2026,86,Science & Technology,Blockchain,Medium,Statement Based,Current
+387,2026,87,Economy,E-Commerce Models,Medium,Factual,Current
+388,2026,88,Economy,Financial Inclusion Index,Medium,Factual,Current
+389,2026,89,Economy,Sustainable Finance,Hard,Conceptual,Current
+390,2026,90,Economy,MSME Financing,Hard,Statement Based,Current
+391,2026,91,Economy,Fiscal Policy,Medium,Conceptual,Static
+392,2026,92,Economy,Rare Earth Elements,Hard,Statement Based,Current
+393,2026,93,Science & Technology,Aviation Insurance,Medium,Statement Based,Current
+394,2026,94,Economy,Crowding Out Effect,Medium,Conceptual,Static
+395,2026,95,Economy,Rare Earth Mission,Hard,Statement Based,Current
+396,2026,96,Science & Technology,Aviation Insurance Convention,Medium,Statement Based,Current
+397,2026,97,Economy,Crowdfunding,Medium,Statement Based,Current
+398,2026,98,Economy,Financial Sector Committees,Very Hard,Match The Following,Static
+399,2026,99,Economy,NBFCs,Hard,Statement Based,Current
+400,2026,100,Economy,Multidimensional Poverty Index,Medium,Statement Based,Current
